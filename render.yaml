@@ -5,7 +5,7 @@ services:
     runtime: docker
     region: Frankfurt
     branch: master
-    repo: https://github.com/Fake-404/Anya_v2-MD.git
+    repo: https://github.com/13065994/Anya_v2-MD.git
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
@@ -15,29 +15,29 @@ services:
     #startCommand: npm start
     envVars:
       - key: BotName
-        value: ""
+        value: "Gerald bot"
       - key: Footer
         value: "© Queen Anya Bot"
       - key: Prefix
-        value: "-"
+        value: "."
       - key: ThemeEmoji
         value: "🎐"
       - key: Owner_Name
-        value: "Pika~Kun"
+        value: "Gerald~Kun"
       - key: Owner_Number
         value: "91881107xxxx"
       - key: Insta
         value: "3.69_pika"
       - key: Author
-        value: "PikaBotz"
+        value: "Gerald"
       - key: PackName
         value: "Queen Anya • Stickers"
       - key: Web
-        value: "https://github.com/PikaBotz"
+        value: "https://github.com/13065994"
       - key: GcLink
         value: "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX"
       - key: Warn_Limits
-        value: "3"
+        value: "4"
       - key: Cooldown_Timer_Seconds
         value: "5"
       - key: Port
@@ -45,4 +45,4 @@ services:
       - key: MongoDB
         value: "YOUR_MONGODB_URL"
       - key: SESSION_ID
-        value: "YOUR_SESSION_ID"
+        value: "ejVxNXZ_Queen-Anya_teGk="
