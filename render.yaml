@@ -43,6 +43,6 @@ services:
       - key: Port
         value: "8080"
       - key: MongoDB
-        value: "mongodb+srv://Gerald:VGAn!F2.Xv@*yq6@cluster0.asa9l.mongodb.net/"
+        value: "mongodb+srv://Cluster:58DgaeLXGY6f-8f@cluster0.asa9l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       - key: SESSION_ID
         value: "ejVxNXZ_Queen-Anya_teGk="
