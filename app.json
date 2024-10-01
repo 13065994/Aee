@@ -8,27 +8,27 @@
     "stack": "container",
     "env": {
          "BotName": {
-             "description": "Enter your desired bot\"s name (Eg:- Queen Anya)",
-             "required": false
+             "description": "Gerald bot",
+             "required": true
          },
          "Footer": {
-            "description": "Enter your bot's watermark (Eg:- Anya Bot)",
-            "required": false
+            "description": "mateo team",
+            "required": true
          },
          "Prefix": {
-            "description": "Enter a prefix for single prefix mode (Eg:- !, -, /, etc...)",
-            "required": false
+            "description": ".",
+            "required": true
          },
          "ThemeEmoji": {
             "description": "Enter your favourite emoji",
             "required": false
          },
          "Owner_Name": {
-            "description": "Enter owner's name",
+            "description": "gerald",
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "2348121662697",
             "required": true
          },
          "Insta": {
