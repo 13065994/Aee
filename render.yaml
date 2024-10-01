@@ -17,7 +17,7 @@ services:
       - key: BotName
         value: "Gerald bot"
       - key: Footer
-        value: "© Queen Anya Bot"
+        value: "© mateo teem"
       - key: Prefix
         value: "."
       - key: ThemeEmoji
@@ -31,7 +31,7 @@ services:
       - key: Author
         value: "Gerald"
       - key: PackName
-        value: "Queen Anya • Stickers"
+        value: "gerald • Stickers"
       - key: Web
         value: "https://github.com/13065994"
       - key: GcLink
@@ -43,6 +43,6 @@ services:
       - key: Port
         value: "8080"
       - key: MongoDB
-        value: "YOUR_MONGODB_URL"
+        value: "mongodb+srv://Gerald:VGAn!F2.Xv@*yq6@cluster0.asa9l.mongodb.net/"
       - key: SESSION_ID
         value: "ejVxNXZ_Queen-Anya_teGk="
