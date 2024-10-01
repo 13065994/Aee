@@ -64,11 +64,11 @@
              "required": false
          },
          "MongoDB": {
-            "description": "Enter your mongodb connection url",
+            "description": "mongodb+srv://Gerald:VGAn!F2.Xv@*yq6@cluster0.asa9l.mongodb.net/",
             "required": true
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "",
             "required": true
          }
     },
